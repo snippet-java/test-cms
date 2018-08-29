@@ -1,3 +1,10 @@
+---
+title: "Cool git addition"
+date: 2016-12-17T15:04:10.000Z
+description: Not possible...easily.
+image: /img/blog-flavor_wheel.jpg
+---
+
 # Project Title
 
 One Paragraph of project description goes here
